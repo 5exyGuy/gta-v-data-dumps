@@ -500,36 +500,6 @@
     "Model": "W_MG_SMINIGUN"
   },
   {
-    "Name": "PICKUP_WEAPON_PISTOLXM3",
-    "Hash": 3063083075,
-    "Model": "W_PI_Pistol_XM3"
-  },
-  {
-    "Name": "PICKUP_WEAPON_CANDYCANE",
-    "Hash": 1337246736,
-    "Model": "W_ME_Candy_XM3"
-  },
-  {
-    "Name": "PICKUP_WEAPON_RAILGUNXM3",
-    "Hash": 4109932467,
-    "Model": "W_AR_RailGun_XM3"
-  },
-  {
-    "Name": "PICKUP_WEAPON_PROXMINE",
-    "Hash": 1649373715,
-    "Model": "w_ex_apmine"
-  },
-  {
-    "Name": "PICKUP_WEAPON_HOMINGLAUNCHER",
-    "Hash": 3223238264,
-    "Model": "w_lr_homing"
-  },
-  {
-    "Name": "PICKUP_AMMO_HOMINGLAUNCHER",
-    "Hash": 1548844439,
-    "Model": "prop_ld_ammo_pack_02"
-  },
-  {
     "Name": "PICKUP_WEAPON_BULLPUPRIFLE_MK2",
     "Hash": 2349845267,
     "Model": "W_AR_BullpupRifleMK2"
@@ -563,6 +533,41 @@
     "Name": "PICKUP_WEAPON_SPECIALCARBINE_MK2",
     "Hash": 94531552,
     "Model": "w_ar_specialcarbinemk2"
+  },
+  {
+    "Name": "PICKUP_WEAPON_PISTOLXM3",
+    "Hash": 3063083075,
+    "Model": "W_PI_Pistol_XM3"
+  },
+  {
+    "Name": "PICKUP_WEAPON_CANDYCANE",
+    "Hash": 1337246736,
+    "Model": "W_ME_Candy_XM3"
+  },
+  {
+    "Name": "PICKUP_WEAPON_RAILGUNXM3",
+    "Hash": 4109932467,
+    "Model": "W_AR_RailGun_XM3"
+  },
+  {
+    "Name": "PICKUP_WEAPON_PROXMINE",
+    "Hash": 1649373715,
+    "Model": "w_ex_apmine"
+  },
+  {
+    "Name": "PICKUP_WEAPON_HOMINGLAUNCHER",
+    "Hash": 3223238264,
+    "Model": "w_lr_homing"
+  },
+  {
+    "Name": "PICKUP_AMMO_HOMINGLAUNCHER",
+    "Hash": 1548844439,
+    "Model": "prop_ld_ammo_pack_02"
+  },
+  {
+    "Name": "PICKUP_WEAPON_SNOWBALL",
+    "Hash": 1189363388,
+    "Model": "w_ex_snowball"
   },
   {
     "Name": "PICKUP_WEAPON_GUSENBERG",
@@ -640,16 +645,6 @@
     "Model": "w_ar_bullpuprifleh4"
   },
   {
-    "Name": "PICKUP_WEAPON_FLAREGUN",
-    "Hash": 3175998018,
-    "Model": "w_pi_flaregun"
-  },
-  {
-    "Name": "PICKUP_AMMO_FLAREGUN",
-    "Hash": 3759398940,
-    "Model": "w_pi_flaregun_shell"
-  },
-  {
     "Name": "PICKUP_WEAPON_CERAMICPISTOL",
     "Hash": 1601729296,
     "Model": "w_pi_ceramic_pistol"
@@ -665,6 +660,21 @@
     "Model": "w_pi_wep2_gun"
   },
   {
+    "Name": "PICKUP_WEAPON_FLAREGUN",
+    "Hash": 3175998018,
+    "Model": "w_pi_flaregun"
+  },
+  {
+    "Name": "PICKUP_AMMO_FLAREGUN",
+    "Hash": 3759398940,
+    "Model": "w_pi_flaregun_shell"
+  },
+  {
+    "Name": "PICKUP_WEAPON_COMBATPDW",
+    "Hash": 2023061218,
+    "Model": "W_SB_PDW"
+  },
+  {
     "Name": "PICKUP_WEAPON_KNUCKLE",
     "Hash": 4254904030,
     "Model": "W_ME_Knuckle"
@@ -673,11 +683,6 @@
     "Name": "PICKUP_WEAPON_MARKSMANPISTOL",
     "Hash": 2329799797,
     "Model": "W_PI_SingleShot"
-  },
-  {
-    "Name": "PICKUP_WEAPON_COMBATPDW",
-    "Hash": 2023061218,
-    "Model": "W_SB_PDW"
   },
   {
     "Name": "PICKUP_PORTABLE_CRATE_FIXED_INCAR",
@@ -838,5 +843,35 @@
     "Name": "PICKUP_WEAPON_TECPISTOL",
     "Hash": 2292608621,
     "Model": "W_PI_PistolSMG_M31"
+  },
+  {
+    "Name": "PICKUP_WEAPON_BATTLERIFLE",
+    "Hash": 3295236118,
+    "Model": "W_SL_BattleRifle_M32"
+  },
+  {
+    "Name": "PICKUP_WEAPON_SNOWLAUNCHER",
+    "Hash": 4173684011,
+    "Model": "W_LR_CompactSL_M32"
+  },
+  {
+    "Name": "PICKUP_AMMO_SNOWLAUNCHER",
+    "Hash": 3224331048,
+    "Model": "w_ex_snowball"
+  },
+  {
+    "Name": "PICKUP_WEAPON_HACKINGDEVICE",
+    "Hash": 2962605638,
+    "Model": "W_AM_HackDevice_M32"
+  },
+  {
+    "Name": "PICKUP_WEAPON_STUNROD",
+    "Hash": 518706036,
+    "Model": "W_ME_Rod_M41"
+  },
+  {
+    "Name": "PICKUP_WEAPON_STRICKLER",
+    "Hash": 3791167784,
+    "Model": "W_AR_BullpupRifleM42"
   }
 ]
